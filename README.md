@@ -14,4 +14,5 @@ in the project folder, then add to `index.html`:
 <script src="./node_modules/animejs/lib/anime.min.js"></script>
 ```
 
-
+Example:
+![screenshot](./images/screenshot.gif)
